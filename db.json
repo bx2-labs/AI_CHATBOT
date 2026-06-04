@@ -1,0 +1,70 @@
+{
+  "plans": [
+    {
+      "id": "plan-basic",
+      "name": "Basic",
+      "features": [
+        "500 Messages",
+        "Algerian Dialect Bot Mode",
+        "Meta Webhook Integration",
+        "Email Support"
+      ],
+      "priceDZD": 2000,
+      "messageLimit": 500
+    },
+    {
+      "id": "plan-pro",
+      "name": "Pro",
+      "features": [
+        "2,000 Messages",
+        "Algerian Dialect Bot Mode",
+        "Custom FAQ Database",
+        "Priority Response Speeds",
+        "Standard Support"
+      ],
+      "priceDZD": 5000,
+      "messageLimit": 2000
+    },
+    {
+      "id": "plan-premium",
+      "name": "Premium",
+      "features": [
+        "Unlimited Messages",
+        "Algerian Dialect Bot Mode",
+        "Unlimited Custom FAQs",
+        "Personal Account Manager",
+        "Premium Tonality Guards"
+      ],
+      "priceDZD": 10000,
+      "messageLimit": 999999
+    },
+    {
+      "id": "plan-1780498921318",
+      "name": "ASER ORP",
+      "features": [
+        "BEST PLAN"
+      ],
+      "priceDZD": 4000,
+      "messageLimit": 5000
+    }
+  ],
+  "merchants": [
+    {
+      "id": "merchant-1",
+      "name": "Bella Boutique",
+      "plan": "Basic",
+      "email": "bella@boutique.com",
+      "status": "active",
+      "createdAt": "2026-06-03T13:34:47.463Z",
+      "botIdentity": "",
+      "verifyToken": "azertyuiopA123",
+      "messageCount": 44,
+      "paymentTxRef": "1234567890°+",
+      "paymentAmount": 2000,
+      "paymentMethod": "ccp",
+      "paymentStatus": "pending",
+      "facebookPageId": "61590781042630",
+      "algerianDialect": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Messenger Chatbot Admin",
+  "description": "Admin Dashboard for AI Chatbot SaaS platform with merchant billing, plan management, and system usage tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
